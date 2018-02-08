@@ -1,4 +1,5 @@
-// lessons finished: 27
+// lessons finished: 30
+// lesson 28 - Lokka/Apollo/Relay clients comparision
 // https://coursehunters.net/course/udemy-graphql-with-react-complete-guide
 const express = require('express');
 const expressGraphQL = require('express-graphql');
